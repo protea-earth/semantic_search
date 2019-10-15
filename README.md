@@ -1,4 +1,7 @@
 # semantic_search
+
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/logo.png)
+
 🔍 Quickly find content, data, and groups related to climate change.
 
 ## Onoging development
